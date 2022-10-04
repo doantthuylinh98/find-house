@@ -4,7 +4,7 @@
 
   FindHouse is fully responsive real estate website (not functional, yet!!!). <br />It is responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://vercel.com"><strong>➥ Live Demo</strong></a>
+  <a href="https://find-house-six.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
